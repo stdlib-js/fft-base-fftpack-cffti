@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - **feat:** add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441) _(by Gunj Joshi, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
